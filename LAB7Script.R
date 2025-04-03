@@ -144,12 +144,13 @@ beta.samples.plot.combined <- function(dataframe, #INPUTTED DATAFRAME
   
   plotty <- ggplot() +
     #PLOTS A DESNITY HISTOGRAM OF THE SAMPLES
-    geom_histogram(data = dataframe, aes(x = x, y = after_stat(density), color = "Estimated Distribution")) +
-    geom_density(data = dataframe, aes(x = x, color = "Estimated Distribution")) +
+    geom_histogram(data = dataframe, aes(x = x, y = after_stat(density), color = "Estimated Distribution"), color = "grey") +
+    geom_density(data = dataframe, aes(x = x, color = "Estimated Distribution"), key_glyph = "path") +
     #PLOTS THE POPULATE LEVEL DISTIRBTUION
     geom_line(data = beta.figure, aes(x = x, y = beta.pdf, color = "True Distribution")) +
     #ADDS THE TITLE AND FORMATS THE PLOTS
     labs(title = paste("(", alpha, ",", beta, ")")) +
+    labs(color = "Distribution Type")
     theme(legend.position = "bottom")
   
   return(plotty) #RETURNS THE PLOT
