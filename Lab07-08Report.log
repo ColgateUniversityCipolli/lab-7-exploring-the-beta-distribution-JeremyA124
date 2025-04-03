@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.26)  3 APR 2025 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.26)  3 APR 2025 11:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/artig/OneDrive/Documents/GitHub/lab-7-exploring-the-beta-distribution-JeremyA124/template.tex
-(c:/Users/artig/OneDrive/Documents/GitHub/lab-7-exploring-the-beta-distribution-JeremyA124/template.tex
+**C:/Users/artig/OneDrive/Documents/GitHub/lab-7-exploring-the-beta-distribution-JeremyA124/Lab07-08Report.tex
+(c:/Users/artig/OneDrive/Documents/GitHub/lab-7-exploring-the-beta-distribution-JeremyA124/Lab07-08Report.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -374,8 +374,8 @@ Package caption Info: hyperref package is loaded.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box103
-) (./template.aux)
-\openout1 = `template.aux'.
+) (./Lab07-08Report.aux)
+\openout1 = `Lab07-08Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
 LaTeX Font Info:    ... okay on input line 75.
@@ -402,9 +402,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 75.
-(./template.out) (./template.out)
+(./Lab07-08Report.out) (./Lab07-08Report.out)
 \@outlinefile=\write3
-\openout3 = `template.out'.
+\openout3 = `Lab07-08Report.out'.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -486,7 +486,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
-(./template.bbl)
+(./Lab07-08Report.bbl)
 
 [2]
 <BetaDistributions.png, id=93, 653.87143pt x 366.8563pt>
@@ -527,24 +527,24 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
  <./BetaDistributions.png> <./cumplots.png>]
 
-[4 <./DeathRateBeta.png> <./Parameters1000.png>] (./template.aux)
+[4 <./DeathRateBeta.png> <./Parameters1000.png>] (./Lab07-08Report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
-Package rerunfilecheck Info: File `template.out' has not changed.
+Package rerunfilecheck Info: File `Lab07-08Report.out' has not changed.
 (rerunfilecheck)             Checksum: 689BAAC34704314434298D823B6C5F35;1895.
  ) 
 Here is how much of TeX's memory you used:
  12294 strings out of 475178
- 197169 string characters out of 5764492
- 627069 words of memory out of 5000000
+ 197313 string characters out of 5764492
+ 627099 words of memory out of 5000000
  35110 multiletter control sequences out of 15000+600000
  568325 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,8n,79p,866b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,79p,872b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/artig/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/Users/artig/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on template.pdf (4 pages, 263343 bytes).
+Output written on Lab07-08Report.pdf (4 pages, 263343 bytes).
 PDF statistics:
  196 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams
